@@ -1,0 +1,9 @@
+/home/sioux/studies/dotnet/udemy/src/Api.Service/bin/Debug/netcoreapp3.1/Service.deps.json
+/home/sioux/studies/dotnet/udemy/src/Api.Service/bin/Debug/netcoreapp3.1/Service.dll
+/home/sioux/studies/dotnet/udemy/src/Api.Service/bin/Debug/netcoreapp3.1/Service.pdb
+/home/sioux/studies/dotnet/udemy/src/Api.Service/obj/Debug/netcoreapp3.1/Service.csprojAssemblyReference.cache
+/home/sioux/studies/dotnet/udemy/src/Api.Service/obj/Debug/netcoreapp3.1/Service.AssemblyInfoInputs.cache
+/home/sioux/studies/dotnet/udemy/src/Api.Service/obj/Debug/netcoreapp3.1/Service.AssemblyInfo.cs
+/home/sioux/studies/dotnet/udemy/src/Api.Service/obj/Debug/netcoreapp3.1/Service.csproj.CoreCompileInputs.cache
+/home/sioux/studies/dotnet/udemy/src/Api.Service/obj/Debug/netcoreapp3.1/Service.dll
+/home/sioux/studies/dotnet/udemy/src/Api.Service/obj/Debug/netcoreapp3.1/Service.pdb
