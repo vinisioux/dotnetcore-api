@@ -50,3 +50,8 @@
 /home/sioux/studies/dotnet/udemy/src/Api.Application/obj/Debug/netcoreapp3.1/application.dll
 /home/sioux/studies/dotnet/udemy/src/Api.Application/obj/Debug/netcoreapp3.1/application.pdb
 /home/sioux/studies/dotnet/udemy/src/Api.Application/obj/Debug/netcoreapp3.1/application.genruntimeconfig.cache
+/home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/sioux/studies/dotnet/udemy/src/Api.Application/obj/Debug/netcoreapp3.1/application.MvcApplicationPartsAssemblyInfo.cs
