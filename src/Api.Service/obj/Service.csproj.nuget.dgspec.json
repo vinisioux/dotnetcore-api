@@ -4,56 +4,6 @@
     "/home/sioux/studies/dotnet/udemy/src/Api.Service/Service.csproj": {}
   },
   "projects": {
-    "/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/CrossCutting.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/CrossCutting.csproj",
-        "projectName": "CrossCutting",
-        "projectPath": "/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/CrossCutting.csproj",
-        "packagesPath": "/home/sioux/.nuget/packages/",
-        "outputPath": "/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/home/sioux/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "/home/sioux/studies/dotnet/udemy/src/Api.Data/Data.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -94,13 +44,13 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.9, )"
+              "version": "[3.1.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.9, )"
+              "version": "[3.1.4, )"
             },
             "Npgsql": {
               "target": "Package",
@@ -201,9 +151,6 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/CrossCutting.csproj": {
-                "projectPath": "/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/CrossCutting.csproj"
-              },
               "/home/sioux/studies/dotnet/udemy/src/Api.Data/Data.csproj": {
                 "projectPath": "/home/sioux/studies/dotnet/udemy/src/Api.Data/Data.csproj"
               },

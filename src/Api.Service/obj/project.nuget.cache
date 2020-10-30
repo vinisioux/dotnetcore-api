@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uWzzYMoJP3DLVD3OGdbTULOIVt0nrt/QeE4lvB/ZXN38KZ1RHe+/C0YL2l0jK7T9aQBhrUHRr8uz89QUSmj07Q==",
+  "dgSpecHash": "kckhoVf6XIqCKflen1VBSGOOnyG8ZlhTcZJ63sMAStfcVHjqzHMsTzDaHEHquocWRB3t9QLW3OB70peXXKyKrA==",
   "success": true,
   "projectFilePath": "/home/sioux/studies/dotnet/udemy/src/Api.Service/Service.csproj",
   "expectedPackageFiles": [

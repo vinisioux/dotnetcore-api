@@ -264,16 +264,6 @@
           "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         }
       },
-      "CrossCutting/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/CrossCutting.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CrossCutting.dll": {}
-        }
-      },
       "Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -785,11 +775,6 @@
         "version.txt"
       ]
     },
-    "CrossCutting/1.0.0": {
-      "type": "project",
-      "path": "../Api.CrossCutting/CrossCutting.csproj",
-      "msbuildProject": "../Api.CrossCutting/CrossCutting.csproj"
-    },
     "Data/1.0.0": {
       "type": "project",
       "path": "../Api.Data/Data.csproj",
@@ -803,7 +788,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "CrossCutting >= 1.0.0",
       "Data >= 1.0.0",
       "Domain >= 1.0.0"
     ]
@@ -832,9 +816,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/CrossCutting.csproj": {
-              "projectPath": "/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/CrossCutting.csproj"
-            },
             "/home/sioux/studies/dotnet/udemy/src/Api.Data/Data.csproj": {
               "projectPath": "/home/sioux/studies/dotnet/udemy/src/Api.Data/Data.csproj"
             },

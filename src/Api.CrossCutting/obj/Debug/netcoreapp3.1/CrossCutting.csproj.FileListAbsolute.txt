@@ -1,9 +1,16 @@
 /home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.deps.json
 /home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.dll
 /home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.pdb
+/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Data.dll
+/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Domain.dll
+/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Service.dll
+/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Service.pdb
+/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Data.pdb
 /home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csprojAssemblyReference.cache
 /home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfoInputs.cache
 /home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfo.cs
 /home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.CoreCompileInputs.cache
+/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.CopyComplete
 /home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.dll
 /home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.pdb
