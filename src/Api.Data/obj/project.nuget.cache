@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+2zjkxpfZsI+01BMHh5n45SVoSzq5agqhyJzFlf8gxlqZKKrawXz05SU/DMQdNwE4lKNgPALjwBGG5dpJHf+vg==",
+  "dgSpecHash": "IzWjhoJfroXkF0hMNtnXXzC2NJSsKDB8PpEE32NhgYcWEU/tSRJo3oPEayoZAwaKmbTiN+6g/mFvc9/bYJWeVQ==",
   "success": true,
   "projectFilePath": "/home/sioux/studies/dotnet/udemy/src/Api.Data/Data.csproj",
   "expectedPackageFiles": [
@@ -24,12 +24,17 @@
     "/home/sioux/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.4/microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
     "/home/sioux/.nuget/packages/microsoft.extensions.options/3.1.4/microsoft.extensions.options.3.1.4.nupkg.sha512",
     "/home/sioux/.nuget/packages/microsoft.extensions.primitives/3.1.4/microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "/home/sioux/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.6.0/microsoft.identitymodel.jsonwebtokens.6.6.0.nupkg.sha512",
+    "/home/sioux/.nuget/packages/microsoft.identitymodel.logging/6.6.0/microsoft.identitymodel.logging.6.6.0.nupkg.sha512",
+    "/home/sioux/.nuget/packages/microsoft.identitymodel.tokens/6.6.0/microsoft.identitymodel.tokens.6.6.0.nupkg.sha512",
     "/home/sioux/.nuget/packages/npgsql/4.1.5/npgsql.4.1.5.nupkg.sha512",
     "/home/sioux/.nuget/packages/npgsql.entityframeworkcore.postgresql/3.1.4/npgsql.entityframeworkcore.postgresql.3.1.4.nupkg.sha512",
     "/home/sioux/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
     "/home/sioux/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/home/sioux/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
-    "/home/sioux/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    "/home/sioux/.nuget/packages/system.identitymodel.tokens.jwt/6.6.0/system.identitymodel.tokens.jwt.6.6.0.nupkg.sha512",
+    "/home/sioux/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "/home/sioux/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

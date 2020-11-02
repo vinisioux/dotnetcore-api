@@ -55,3 +55,12 @@
 /home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
 /home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
 /home/sioux/studies/dotnet/udemy/src/Api.Application/obj/Debug/netcoreapp3.1/application.MvcApplicationPartsAssemblyInfo.cs
+/home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/mono_crash.21acb2ae56.0.json
+/home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/sioux/studies/dotnet/udemy/src/Api.Application/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll

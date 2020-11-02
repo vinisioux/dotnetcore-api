@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "PIzaamYJmdEMQgP4bpP7IAIwTX+vK9h5ZNlSUedVG2ewRsXBi2Rb8QHtUD80m0Oq3HQAk7sAepzXdV09fcV/Yw==",
+  "dgSpecHash": "G7kxXji3XUeuJUWU2pRNSBciSDjRClwVZyNqktyqgiqMrgPQVEd6FR2UsBzPu4rRbszf0FpcUEIqQkd62oFyfw==",
   "success": true,
   "projectFilePath": "/home/sioux/studies/dotnet/udemy/src/Api.Domain/Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/sioux/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/home/sioux/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.6.0/microsoft.identitymodel.jsonwebtokens.6.6.0.nupkg.sha512",
+    "/home/sioux/.nuget/packages/microsoft.identitymodel.logging/6.6.0/microsoft.identitymodel.logging.6.6.0.nupkg.sha512",
+    "/home/sioux/.nuget/packages/microsoft.identitymodel.tokens/6.6.0/microsoft.identitymodel.tokens.6.6.0.nupkg.sha512",
+    "/home/sioux/.nuget/packages/system.identitymodel.tokens.jwt/6.6.0/system.identitymodel.tokens.jwt.6.6.0.nupkg.sha512",
+    "/home/sioux/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

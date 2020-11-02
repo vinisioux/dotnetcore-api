@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kckhoVf6XIqCKflen1VBSGOOnyG8ZlhTcZJ63sMAStfcVHjqzHMsTzDaHEHquocWRB3t9QLW3OB70peXXKyKrA==",
+  "dgSpecHash": "WFjwaGghmen0H73G9mSbcIEEgoUvJRBc53HmnpvCjy0D3GNVHR2M9RzgvuntlJ0zxHm9fM/P5BwRInp7Q2JAxg==",
   "success": true,
   "projectFilePath": "/home/sioux/studies/dotnet/udemy/src/Api.Service/Service.csproj",
   "expectedPackageFiles": [
     "/home/sioux/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/home/sioux/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "/home/sioux/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/home/sioux/.nuget/packages/microsoft.entityframeworkcore/3.1.4/microsoft.entityframeworkcore.3.1.4.nupkg.sha512",
     "/home/sioux/.nuget/packages/microsoft.entityframeworkcore.abstractions/3.1.4/microsoft.entityframeworkcore.abstractions.3.1.4.nupkg.sha512",
     "/home/sioux/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.4/microsoft.entityframeworkcore.analyzers.3.1.4.nupkg.sha512",
@@ -21,12 +22,17 @@
     "/home/sioux/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.4/microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
     "/home/sioux/.nuget/packages/microsoft.extensions.options/3.1.4/microsoft.extensions.options.3.1.4.nupkg.sha512",
     "/home/sioux/.nuget/packages/microsoft.extensions.primitives/3.1.4/microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "/home/sioux/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.6.0/microsoft.identitymodel.jsonwebtokens.6.6.0.nupkg.sha512",
+    "/home/sioux/.nuget/packages/microsoft.identitymodel.logging/6.6.0/microsoft.identitymodel.logging.6.6.0.nupkg.sha512",
+    "/home/sioux/.nuget/packages/microsoft.identitymodel.tokens/6.6.0/microsoft.identitymodel.tokens.6.6.0.nupkg.sha512",
     "/home/sioux/.nuget/packages/npgsql/4.1.5/npgsql.4.1.5.nupkg.sha512",
     "/home/sioux/.nuget/packages/npgsql.entityframeworkcore.postgresql/3.1.4/npgsql.entityframeworkcore.postgresql.3.1.4.nupkg.sha512",
     "/home/sioux/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
     "/home/sioux/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/home/sioux/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
-    "/home/sioux/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    "/home/sioux/.nuget/packages/system.identitymodel.tokens.jwt/6.6.0/system.identitymodel.tokens.jwt.6.6.0.nupkg.sha512",
+    "/home/sioux/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "/home/sioux/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
