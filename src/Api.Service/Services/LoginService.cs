@@ -65,12 +65,16 @@ namespace Api.Service.Services
           var handler = new JwtSecurityTokenHandler();
           string token = CreateToken(identity, createdDate, expirationDate, handler);
 
-          return SuccessObject(createdDate, expirationDate, token, user);
+          return SuccessObject(createdDate, expirationDate, token, baseUser);
         }
       }
       else
       {
-        return null;
+        return new
+        {
+          authenticate = false,
+          message = "Falha ao autenticar"
+        };
       }
     }
 
@@ -91,7 +95,7 @@ namespace Api.Service.Services
       return token;
     }
 
-    private object SuccessObject(DateTime createdDate, DateTime expirationDate, string token, LoginDto user)
+    private object SuccessObject(DateTime createdDate, DateTime expirationDate, string token, UserEntity user)
     {
       return new
       {
@@ -99,7 +103,8 @@ namespace Api.Service.Services
         created = createdDate.ToString("yyyy-MM-dd HH:mm:ss"),
         expiration = expirationDate.ToString("yyyy-MM-dd HH:mm:ss"),
         accessToken = token,
-        userName = user.Email,
+        email = user.Email,
+        name = user.Name,
         message = "Usuário autenticado com sucesso"
       };
     }
