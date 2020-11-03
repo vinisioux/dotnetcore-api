@@ -92,13 +92,13 @@ namespace application
 
         c.AddSecurityRequirement(new OpenApiSecurityRequirement {
           {
-          new OpenApiSecurityScheme {
-            Reference = new OpenApiReference {
-              Id = "Bearer",
-              Type = ReferenceType.SecurityScheme
-            }
-          },
-          new List<string>()
+            new OpenApiSecurityScheme {
+              Reference = new OpenApiReference {
+                Id = "Bearer",
+                Type = ReferenceType.SecurityScheme
+              }
+            },
+            new List<string>()
           }
         });
       });
