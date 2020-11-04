@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Eb7fZawvDImJLbJJSuHpt3goVLysmzi+duwB1J7O+GcZBxrjTuvrDotieJUs2LTHaCoVKc3Ew9uPa+p9zTTI8w==",
+  "dgSpecHash": "g/6MO3fveIhQ8KdVAKtVPZrG8PXegqVZHHABQFjuFcKxUYO5QzGJwCugIuYXiNjVTDDDggwLb7IXiJZjz3uqRQ==",
   "success": true,
   "projectFilePath": "/home/sioux/studies/dotnet/udemy/src/Api.CrossCutting/CrossCutting.csproj",
   "expectedPackageFiles": [
